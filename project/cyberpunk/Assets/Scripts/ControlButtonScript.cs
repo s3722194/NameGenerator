@@ -22,6 +22,6 @@ public class ControlButtonScript : MonoBehaviour
     void playGame()
     {
         Debug.Log("You have clicked the button");
-        SceneManager.LoadScene("ControlScene");
+        SceneManager.LoadScene("ControlsScene");
     }
 }
