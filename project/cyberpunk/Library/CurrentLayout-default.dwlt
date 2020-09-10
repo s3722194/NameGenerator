@@ -110,10 +110,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 679, y: 494}
+  m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 1379
+  controlID: 12133
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,10 +135,10 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 731
-  m_MinSize: {x: 679, y: 494}
+  m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 1380
+  controlID: 12134
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,7 +163,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 1433
+  controlID: 12111
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -238,10 +238,10 @@ MonoBehaviour:
     y: 0
     width: 647
     height: 731
-  m_MinSize: {x: 477, y: 494}
+  m_MinSize: {x: 481, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 1381
+  controlID: 12135
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -263,10 +263,10 @@ MonoBehaviour:
     y: 0
     width: 647
     height: 454
-  m_MinSize: {x: 477, y: 222}
-  m_MaxSize: {x: 8002, y: 4022}
+  m_MinSize: {x: 481, y: 222}
+  m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 1382
+  controlID: 12136
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -463,9 +463,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 315.76636, y: 213.23474, z: -460.80408}
+    m_Target: {x: 374.6335, y: 49.68469, z: -5.0195875}
     speed: 2
-    m_Value: {x: 315.59848, y: 213.27565, z: -460.80652}
+    m_Value: {x: 374.6335, y: 49.68469, z: -5.0195875}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -498,9 +498,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 380.23233
+    m_Target: 693.9057
     speed: 2
-    m_Value: 380.51764
+    m_Value: 693.9057
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -619,9 +619,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 6e300000
       m_LastClickedID: 0
-      m_ExpandedIDs: 32f9ffff6ef9ffff9af9ffffc6f9fffff2f9ffff6afbffff8c330000
+      m_ExpandedIDs: 124fffffca59ffff1a5affff6a5effffb65effff585fffff409effff7e9fffffd4b1ffff02f4ffff36f4ffff6af4ffff1af5ffffaafaffff6afbffffd23200003033000066340000b0380000463900007a3900001c3a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -684,19 +684,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\gooby\Documents\games studio 2\cyberpunk\NameGenerator\project\cyberpunk
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3c2f0000
-    m_LastClickedID: 12092
+    m_SelectedIDs: 8a2d0000
+    m_LastClickedID: 11658
     m_ExpandedIDs: 00000000022d0000ec2d00000c2e0000242f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
